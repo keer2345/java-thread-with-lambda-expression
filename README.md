@@ -23,3 +23,5 @@ share these resources.
   - Demo05.java
 - [Multithreading Synchronized Keyword](https://youtu.be/RH7G-N2pa8M?list=PLsyeobzWxl7rmuFYRpkqLanwoG4pQQ7oW)
   - Demo06.java
+- [Multithreading InterThread Communication | Producer Consumer](https://youtu.be/A1tnVMpWHh8?list=PLsyeobzWxl7rmuFYRpkqLanwoG4pQQ7oW)
+  - Demo07.java
